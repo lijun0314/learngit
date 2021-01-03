@@ -13,3 +13,6 @@ Creating a new branch is quick and simple.
 add
 Creating a new branch is quick.
 >>>>>>> dev
+
+Creating a new branch is quick AND simple.
+
